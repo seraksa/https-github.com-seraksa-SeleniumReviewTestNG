@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83e8e561-69ba-40c2-a426-58b0e7302f82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hBc6FcFtXXLWgUzbqHte4JB74i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.FhcTripHotelCreateTest.test">
+    <configuration name="FhcTripHotelCreateTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReviewTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.smoketests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.smoketests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.smoketests.FhcTripHotelCreateTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReviewTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.WebTableTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTableTest.hucreYazdirma" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReviewTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.WebTableTest" />
+      <option name="METHOD_NAME" value="hucreYazdirma" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTableTest.sutunYazdirma" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReviewTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.WebTableTest" />
+      <option name="METHOD_NAME" value="sutunYazdirma" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTableTest.tumSatirlar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReviewTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.WebTableTest" />
+      <option name="METHOD_NAME" value="tumSatirlar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FhcTripHotelCreateTest.test" />
+        <item itemvalue="TestNG.WebTableTest" />
+        <item itemvalue="TestNG.WebTableTest.hucreYazdirma" />
+        <item itemvalue="TestNG.WebTableTest.sutunYazdirma" />
+        <item itemvalue="TestNG.WebTableTest.tumSatirlar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83e8e561-69ba-40c2-a426-58b0e7302f82" name="Default Changelist" comment="" />
+      <created>1599487748953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599487748953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="250" key="GridCell.Tab.0.bottom" timestamp="1600101934715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600101934715" />
+    <state width="1322" height="250" key="GridCell.Tab.0.center" timestamp="1600101934714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="250" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600101934714" />
+    <state width="1322" height="250" key="GridCell.Tab.0.left" timestamp="1600101934714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="250" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600101934714" />
+    <state width="1322" height="250" key="GridCell.Tab.0.right" timestamp="1600101934714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="250" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600101934714" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1600100830801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600100830801" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1600100830801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600100830801" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1600100830801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600100830800" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1600100830801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1600100830801" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1599585915858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1599585915858" />
+    <state x="65" y="71" key="new project wizard" timestamp="1599488007270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="71" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1599488007270" />
+  </component>
+</project>
